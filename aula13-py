@@ -1,0 +1,141 @@
+AULA13
+
+# Função principal
+def calcular_gastos_mensais():
+    
+   
+# Solicitando os valores de cada categoria de gastos
+    agua = 
+    agua =
+
+    agua
+
+   
+float(input("Digite o valor gasto com água: R$ "))
+    luz = 
+    luz =
+
+    luz
+
+   
+float(input("Digite o valor gasto com luz: R$ "))
+    telefone = 
+    telefone =
+
+    telefone
+
+   
+float(input("Digite o valor gasto com telefone: R$ "))
+    internet = 
+    internet =
+
+    internet
+
+   
+float(input("Digite o valor gasto com internet: R$ "))
+    compras = 
+    compras =
+
+    compras
+
+   
+float(input("Digite o valor gasto com compras do mês: R$ "))
+
+    
+
+   
+
+
+# Calculando o total de gastos
+    total_gastos = agua, luz, telefone, internet, compras
+    total_gastos = 
+    total_gastos = agua, luz, telefone, internet, compras
+    total_gastos =
+
+    total_gastos = agua, luz, telefone, internet, compras
+    total_gastos
+
+    total_gastos = agua, luz, telefone, internet, compras
+    total_g
+
+    total_gastos = agua, luz, telefone, internet, compras
+    total
+
+    total_gastos = agua, luz, telefone, internet, compras
+   
+
+    total_gastos = agua, luz, telefone, internet, compras
+
+    total_gastos = agua, luz, telefone, internet,
+
+    total_gastos = agua, luz, telefone, internet
+
+    total_gastos = agua, luz, telefone,
+
+    total_gastos = agua, luz, telefone
+
+    total_gastos = agua, luz,
+
+    total_gastos = agua, luz
+
+    total_gastos = agua,
+
+    total_gastos = agua
+
+    total_gastos =
+
+    total_gastos
+
+    total_g
+
+    total
+
+   
+sum(total_gastos)
+    
+    
+    
+   
+
+    
+# Exibindo os valores de cada categoria e o total
+    
+   
+print("\n----- Gastos do Mês -----")
+    
+   
+print(f"Água: R$ {agua:.2f}")
+    
+   
+print(f"Luz: R$ {luz:.2f}")
+    print(f"Telefone: R$ {telefone:.2f}")
+    
+   
+print(f"Internet: R$ {internet:.2f}")
+    
+   
+print(f"Compras do mês: R$ {compras:.2f}")
+    
+   
+print(f"Total de gastos: R$ {total_gastos:.2f}")
+
+# Chamando a função principal
+if __name__ == "__main__":
+    calcular_gastos_mensais()
+
+    calcular_gastos_mensais()
+``
+
+    calcular_gastos_mensais()
+
+    calcular_gastos_mensais
+
+    calcular_gastos_mens
+
+    calcular_gastos_m
+
+    calcular_gastos
+
+    calcular_g
+
+    calcular
